@@ -1,5 +1,5 @@
 # Support Ticket Classification & Prioritization System
-### � Machine Learning Task 2 (2026)
+### Machine Learning Task 2 (2026)
 
 ## Executive Summary
 In modern customer service, speed and accuracy are paramount. This project implements a **Decision Support System** that uses Machine Learning to automatically categorize incoming support tickets and assign them a priority level (High, Medium, Low, Critical).
